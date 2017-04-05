@@ -1,0 +1,25 @@
+.App {
+ 
+}
+
+.Main {
+  border: 1px solid #000;
+  width: 98%;
+  height: 550px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.innerDiv {
+  border: 1px solid #000;
+  width: 100px;
+  height: 550px;
+}
+
+
+.innerDivShow {
+  border: 1px solid #000;
+  width: 900px;
+  height: 550px;
+}
